@@ -1,0 +1,4 @@
+3
+Samsung, 20, 50
+Iphone, 15, 25
+Nokia, 30, 40
